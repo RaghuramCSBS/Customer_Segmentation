@@ -6,12 +6,19 @@ Aim:To cluster customers of a E-Commerce site based on similar purchasing behavi
 Preprocessing steps involed:
 
 1)handling null values
+
 2)handling duplicate values
-3)feature extraction 
+
+3)feature extraction
+
 4)identify and remove outliers
+
 5)data scaling
+
 6)model building
+
 7)Hyperparameter Tuning
+
 8)model evalution
 
 
